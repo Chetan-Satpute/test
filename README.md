@@ -1,1 +1,1 @@
-TEST BRANCH LOCALLY CHANGED Changed on remote
+TEST BRANCH LOCALLY CHANGED Changed on remote Changed again locally
